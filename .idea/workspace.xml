@@ -19,29 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d7480b-bb59-4aff-9193-c3d57cd82146" name="Default Changelist" comment="修改">
+    <list default="true" id="46d7480b-bb59-4aff-9193-c3d57cd82146" name="Default Changelist" comment="除团队外其他调完了">
+      <change afterPath="$PROJECT_DIR$/personImg/李海冰.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExperimentalEquipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExperimentalEquipment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExperimentalMaterials.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExperimentalMaterials.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExperimentalOperationManual.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExperimentalOperationManual.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExperimentalPrinciple.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExperimentalPrinciple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration.html" beforeDir="false" afterPath="$PROJECT_DIR$/declaration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_files/center.png" beforeDir="false" afterPath="$PROJECT_DIR$/index_files/center.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index_files/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network.html" beforeDir="false" afterPath="$PROJECT_DIR$/network.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectFeatures.html" beforeDir="false" afterPath="$PROJECT_DIR$/projectFeatures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/purposeOfTheExperiment.html" beforeDir="false" afterPath="$PROJECT_DIR$/purposeOfTheExperiment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servicePlan.html" beforeDir="false" afterPath="$PROJECT_DIR$/servicePlan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceTeam.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceTeam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceTeam_back.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teachingMethod.html" beforeDir="false" afterPath="$PROJECT_DIR$/teachingMethod.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology.html" beforeDir="false" afterPath="$PROJECT_DIR$/technology.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viewMainPerson.html" beforeDir="false" afterPath="$PROJECT_DIR$/viewMainPerson.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,17 +52,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index_files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/personImg" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\personImg" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\index_files" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\img" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml\img" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml" />
-      <recent name="D:\work\outServer\shiyan\shiyanhtml\personImg" />
     </key>
   </component>
   <component name="RunManager">
@@ -100,7 +81,7 @@
       <workItem from="1601105422519" duration="13320000" />
       <workItem from="1601470775304" duration="1315000" />
       <workItem from="1602499421650" duration="343000" />
-      <workItem from="1602499772594" duration="6004000" />
+      <workItem from="1602499772594" duration="6987000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1601105849237</created>
@@ -130,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602500071686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="除团队外其他调完了">
+      <created>1602508329899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602508329899</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +142,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+    <MESSAGE value="除团队外其他调完了" />
+    <option name="LAST_COMMIT_MESSAGE" value="除团队外其他调完了" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601105653038">
@@ -189,10 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602499783709" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602508297609">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602508351106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602508297609" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602508351106" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602499853526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
