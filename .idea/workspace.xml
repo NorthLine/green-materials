@@ -20,30 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46d7480b-bb59-4aff-9193-c3d57cd82146" name="Default Changelist" comment="half finlished">
-      <change afterPath="$PROJECT_DIR$/ExperimentalOperationManualImgs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personImg/刘山山.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personImg/王骞.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personImg/胡骏.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (10).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (11).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (12).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (13).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (14).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (15).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (16).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (17).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (2).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (3).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (4).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (5).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (6).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (7).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (8).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiy/fix (9).jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExperimentalOperationManual.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExperimentalOperationManual.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceTeam.html" beforeDir="false" afterPath="$PROJECT_DIR$/serviceTeam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fwjh.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/fwjh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/xmts.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/xmts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/yfjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/yfjs.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,16 +53,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/shiy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\img" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\shiy" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\personImg" />
-      <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\img" />
       <recent name="D:\work\outServer\shiyan\shiyanhtml-tang\index_files" />
     </key>
   </component>
@@ -103,7 +83,7 @@
       <workItem from="1601470775304" duration="1315000" />
       <workItem from="1602499421650" duration="343000" />
       <workItem from="1602499772594" duration="7381000" />
-      <workItem from="1602512362003" duration="3851000" />
+      <workItem from="1602512362003" duration="5071000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1601105849237</created>
@@ -154,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602513176305</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="half finlished">
+      <created>1602516827243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516827243</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601105653038" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1602517043111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602517043111" />
     <state x="828" y="417" key="Github.ShareDialog" timestamp="1602499800547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602499783709" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602513178844">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602516834292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602513178844" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602516834292" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602499853526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
