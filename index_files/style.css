@@ -1,4 +1,4 @@
-.header{height:195px;background: #025393;}
+.header{height:195px;background: #029350;}
 .container{width:1000px;margin:auto;}
 .logo{height: 110px;background: url("../img/logo.png") no-repeat center;}
 
@@ -11,18 +11,18 @@
 	height: 45px;
 	line-height: 45px;
 	font-family: "Microsoft Yahei";
-	color: #025393;
+	color: #029350;
 	font-size: 18px;
 	text-decoration: none;
 	padding: 0 12px;
 }
-.nav ul li a:hover{background:#1DB9EC;color:#fff;}
+.nav ul li a:hover{background:#1d7946;color:#fff;}
 
-.banner{height:417px;width:100%;background: url("../img/banner.png") no-repeat center;}
+.banner{height:580px;width:100%;background: url("../img/banner.png") no-repeat center;}
 
 .contentA{height:710px;padding-top:20px;}
 
-.tit span{display:block;font-size:28px;font-family: "Microsoft Yahei";color: #025393;text-align:center;line-height:65px;}
+.tit span{display:block;font-size:28px;font-family: "Microsoft Yahei";color: #029350;text-align:center;line-height:65px;}
 .tit label{
 	width: 570px;
 	line-height: 30px;
@@ -45,7 +45,7 @@
 	margin-right: 20px;
 	line-height:40px;
 	border-radius: 35px;
-	background: #025393;
+	background: #029350;
 	color: #fff;
 	font-size:18px;
 	font-family: "Microsoft Yahei";
@@ -62,7 +62,7 @@
 	top: 140px;
 	left: 190px;
 	background:url("../img/player.png") no-repeat center;}
-.videoList ul li p{color: #025393;font-size:18px;line-height:45px;text-align: center;}
+.videoList ul li p{color: #029350;font-size:18px;line-height:45px;text-align: center;}
 
 
 .contentB{height:400px;background:#fafafa;padding:25px 0;}
@@ -88,11 +88,11 @@
 .contentB .right ul li.icon-4 span{background: url("../img/icon2.png") #848586 center no-repeat;}
 .contentB .right ul li.icon-5 span{background: url("../img/icon4.png") #848586 center no-repeat;}
 
-.contentB .right ul li.icon-1:hover span{background: url("../img/icon1.png") #1DB9EC center no-repeat;}
-.contentB .right ul li.icon-2:hover span{background: url("../img/icon2.png") #1DB9EC center no-repeat;}
-.contentB .right ul li.icon-3:hover span{background: url("../img/icon3.png") #1DB9EC center no-repeat;}
-.contentB .right ul li.icon-4:hover span{background: url("../img/icon2.png") #1DB9EC center no-repeat;}
-.contentB .right ul li.icon-5:hover span{background: url("../img/icon4.png") #1DB9EC center no-repeat;}
+.contentB .right ul li.icon-1:hover span{background: url("../img/icon1.png") #1d7946 center no-repeat;}
+.contentB .right ul li.icon-2:hover span{background: url("../img/icon2.png") #1d7946 center no-repeat;}
+.contentB .right ul li.icon-3:hover span{background: url("../img/icon3.png") #1d7946 center no-repeat;}
+.contentB .right ul li.icon-4:hover span{background: url("../img/icon2.png") #1d7946 center no-repeat;}
+.contentB .right ul li.icon-5:hover span{background: url("../img/icon4.png") #1d7946 center no-repeat;}
 
 .contentC{padding:25px 0;}
 .contentC .left{width:485px;height:260px;background: url("../img/yfjs.png") no-repeat center;}
@@ -237,7 +237,7 @@
 	position: absolute;
 	left: 0;
 	top: 0px;
-	border-bottom: 2px solid #1DB9EC;
+	border-bottom: 2px solid #1d7946;
 	color: #323335;
 	font-weight: normal;
 }
@@ -298,7 +298,7 @@
 	line-height: 20px;
 	border-bottom:3px solid #228575;
 	text-align:center;
-	background:#1DB9EC;
+	background:#1d7946;
 }
 
 .aside li a{
@@ -361,8 +361,8 @@
 	font-size: 12px;
 	padding: 0 4px;
 
-	border: 1px solid #1DB9EC;
-	color: #1DB9EC;
+	border: 1px solid #1d7946;
+	color: #1d7946;
 	border-radius: 9px;
 	height: 17px;
 	line-height: 17px;
@@ -559,14 +559,14 @@
 }
 
 .attempt:hover{
-	color:#1DB9EC !important;
+	color:#1d7946 !important;
 	text-decoration: underline;
 }
 .waiting {
 	display:block;
 	width:160px;
 	height:40px;
-	background:#1DB9EC;
+	background:#1d7946;
 	line-height:40px;
 	text-align:center;
 	margin:0 auto;

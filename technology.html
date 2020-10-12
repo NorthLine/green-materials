@@ -8,11 +8,11 @@
             padding-top: 56.25%
         }
     </style>
-    <title>项目架构及研发技术-商业空间照明设计虚拟仿真实验</title>
+    <title>项目架构及研发技术-绿色装饰材料与构造虚拟仿真实验教学系统</title>
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge，chrome=1">
     <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" id="viewport" name="viewport">
-    <meta name="keywords" content="experiment teaching,实验教学,商业空间照明,虚拟仿真">
+    <meta name="keywords" content="experiment teaching,绿色装饰,绿色装饰材料,虚拟仿真实验教学系统,教学系统">
     <link rel="stylesheet" href="./index_files/normalize.css">
     <link rel="stylesheet" href="./index_files/common.css">
     <link rel="stylesheet" href="./index_files/style.css">
@@ -60,10 +60,9 @@
         <div class="left-content">
             <h1 class="scrollTopPx" id="1">系统架构图及简要说明</h1>
 
-            <p style="text-align: center"><img src="./index_files/jg.png" alt=""></p>
-
-            <p>系统是基于C/S架构的虚拟教学平台，网络服务部分代码采用Node.js语言编写，整个系统由学生端和教师端、网络模块以及数据库模块构成，学生端包括学习模块、答题模块，教师端包括用户管理模块和成绩管理模块。系统采用MongoDB数据库，客户端支持依赖SteamVR的VR设备，通过网络服务模块汇总教学数据，并交由教师管理系统进行查询和管理。</p>
-
+           <p>
+               本系统是基于 C/S架构的虚拟教学平台，其系统架构如图 10所示，由学生端、教师端、网络同步模块以及数据库模块构成，服务器部分代码采用 C#语言编写。学生端包括学习模块和考核模块，教师端包括在线指导模块和后台管理模块。学生端和教师端之间是通过网络同步模块进行数据同步控制，保证学生和老师可以同时对一个物体进行操作学习和指导。系统采用 MongoDB数据库，并采用缓存技术来提升访问速度。客户端支持 PC端，对应的有 VR版本和非 VR版本，通过互动伺服器实现和平台的数据交互，以及实现不同终端之间互动教学。
+           </p>
 
             <h1 class="scrollTopPx" id="2">实验教学项目</h1>
 
@@ -76,7 +75,7 @@
                 <li><p>· 3D仿真</p></li>
                 <li><p>· 二维动画</p></li>
                 <li><p>· HTML5</p></li>
-                <li><p>· 其它：VR, 3D仿真</p></li>
+                <li><p>· 其它</p></li>
             </ul>
             <div style="height: 40px;"></div>
             <h2>开发工具</h2>
@@ -92,7 +91,7 @@
                 <li><p>· Animate CC</p></li>
                 <li><p>· Blender </p></li>
                 <li><p>· Visual Studio</p></li>
-                <li><p>· 其他:Unity3D, 3D Studio Max, Visual Studio </p></li>
+                <li><p>· 其他 </p></li>
             </ul>
             <div style="height: 40px;"></div>
 
@@ -100,16 +99,21 @@
             <h2>运行环境</h2>
 
             <ul>
-                <li><p>· 服务器 :  CPU 2 核、内存 2 GB、磁盘20GB、显存－GB、GPU型号 </p></li>
-                <li><p>· 操作系统 :  Windows Server 、Linux 、其他 </p></li>
-                <li><p>· 数据库 ： Mysql、SQL、Server Oracle、Mongo DB、其他 </p></li>
+                <li><p>· 服务器 :  CPU Intel i5、内存 4 GB、独立显存 2G、 硬盘：500G 以上</p></li>
+                <li><p>· 操作系统 :  Windows Server  </p></li>
+                <li><p>· 数据库 ： Mysql </p></li>
             </ul>
             <div style="height: 40px;"></div>
 
 
             <h2>项目品质</h2>
 
-            <p>单场景模型总面数大于300万面贴图分辨率1080p显示刷新率60hz分辨率1920*1080</p>
+            <p>单场景模型总面数3600</p>
+            <p>贴图分辨率150dpi</p>
+            <p>每帧渲染次数25</p>
+            <p>动作反馈时间0.1ms</p>
+            <p>显示刷新率60hz</p>
+            <p>分辨率1920*1080</p>
 
         </div>
 
