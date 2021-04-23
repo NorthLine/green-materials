@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46d7480b-bb59-4aff-9193-c3d57cd82146" name="Default Changelist" comment="half finlished">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fwjh.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/fwjh.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/xmts.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/xmts.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/yfjs.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/yfjs.png" afterDir="false" />
-    </list>
+    <list default="true" id="46d7480b-bb59-4aff-9193-c3d57cd82146" name="Default Changelist" comment="half finlished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shiyan-camera" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -84,6 +79,7 @@
       <workItem from="1602499421650" duration="343000" />
       <workItem from="1602499772594" duration="7381000" />
       <workItem from="1602512362003" duration="5071000" />
+      <workItem from="1603192621106" duration="195000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1601105849237</created>
@@ -178,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602517043111" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1603192814954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603192814954" />
     <state x="828" y="417" key="Github.ShareDialog" timestamp="1602499800547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
